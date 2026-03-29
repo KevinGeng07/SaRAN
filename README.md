@@ -8,6 +8,6 @@
 
 ## Evaluation Questions:
 - How does deep supervision affect how well a hybrid architecture converges?
-- How small of a model can knowledge distillation (+ deep supervision) leverage that still results in reasonable performance?
+- How small of a performant model can be achieved with  knowledge distillation (+ deep supervision)?
 - How well does knowledge sharing between Segmentation <-> Regression work?
-- How effective can semi-supervised fine-tuning be when the model is pretrained on a different objective of the same dataset?
+- How effective is semi-supervised fine-tuning when pretrained on a different objective of the same dataset?
