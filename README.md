@@ -3,7 +3,7 @@
 ## Evaluated Datasets (TBD):
 - KITTI-360 ([Link](https://www.cvlibs.net/datasets/kitti-360/))
 - nuScenes Panoptic ([Link](https://www.nuscenes.org/nuscenes#panoptic))
-- CityScapes ([Link](https://www.cityscapes-dataset.com/))
+- CityScapes ([Link](https://www.cityscapes-dataset.com/)) -> Random crop 512 x 512.
 - Audi A2D2 ([Link](https://www.a2d2.audi/en/))
 
 ## Evaluation Questions:
